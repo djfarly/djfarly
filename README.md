@@ -1,4 +1,3 @@
-### Hej — it's Jan
+### Hej, I'm Jan
 
-**[web development](https://jan.cologne/)** ⌨️, **[teaching](https://www.neuefische.de/)** 🎓 & **[music](https://open.spotify.com/artist/6cMoQnsxJyoTfOgPrStBTL)** 🎧 — **co-founder of [DIO](https://www.diostudios.de/)** 🤘
-
+**[⌨️ fullstack web developer](https://jan.cologne/)**, **[🎓 coach](https://neat.school)**, **[🎧 musician](https://open.spotify.com/artist/6cMoQnsxJyoTfOgPrStBTL)** and **[🤘 entrepreneur](https://www.diostudios.de/)**
